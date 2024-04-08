@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+canvas {
+  display: block;
+}
+
+button{
+  background-color: transparent;
+  color:rgb(255,255,255);
+  text-align: left;
+  font-size: 33px;
+  width: 20%;
+  border: 2px solid #F44336;
+}
